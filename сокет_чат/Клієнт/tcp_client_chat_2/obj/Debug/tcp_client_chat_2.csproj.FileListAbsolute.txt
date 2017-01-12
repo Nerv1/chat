@@ -1,0 +1,20 @@
+c:\users\flay7\documents\visual studio 2013\Projects\tcp_client_chat_2\tcp_client_chat_2\bin\Debug\tcp_client_chat_2.exe.config
+c:\users\flay7\documents\visual studio 2013\Projects\tcp_client_chat_2\tcp_client_chat_2\bin\Debug\tcp_client_chat_2.exe
+c:\users\flay7\documents\visual studio 2013\Projects\tcp_client_chat_2\tcp_client_chat_2\bin\Debug\tcp_client_chat_2.pdb
+c:\users\flay7\documents\visual studio 2013\Projects\tcp_client_chat_2\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.Form1.resources
+c:\users\flay7\documents\visual studio 2013\Projects\tcp_client_chat_2\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.Form2.resources
+c:\users\flay7\documents\visual studio 2013\Projects\tcp_client_chat_2\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.Properties.Resources.resources
+c:\users\flay7\documents\visual studio 2013\Projects\tcp_client_chat_2\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.csproj.GenerateResource.Cache
+c:\users\flay7\documents\visual studio 2013\Projects\tcp_client_chat_2\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.exe
+c:\users\flay7\documents\visual studio 2013\Projects\tcp_client_chat_2\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.pdb
+c:\users\flay7\documents\visual studio 2013\Projects\tcp_client_chat_2\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.csprojResolveAssemblyReference.cache
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\bin\Debug\tcp_client_chat_2.exe.config
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.exe
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.pdb
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\bin\Debug\tcp_client_chat_2.exe
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\bin\Debug\tcp_client_chat_2.pdb
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.csprojResolveAssemblyReference.cache
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.Form1.resources
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.Form2.resources
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.Properties.Resources.resources
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Debug\tcp_client_chat_2.csproj.GenerateResource.Cache

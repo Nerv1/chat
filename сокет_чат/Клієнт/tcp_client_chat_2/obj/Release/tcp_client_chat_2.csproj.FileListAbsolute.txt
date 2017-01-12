@@ -1,0 +1,10 @@
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\bin\Release\tcp_client_chat_2.exe.config
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\bin\Release\tcp_client_chat_2.exe
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\bin\Release\tcp_client_chat_2.pdb
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Release\tcp_client_chat_2.csprojResolveAssemblyReference.cache
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Release\tcp_client_chat_2.Form1.resources
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Release\tcp_client_chat_2.Form2.resources
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Release\tcp_client_chat_2.Properties.Resources.resources
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Release\tcp_client_chat_2.csproj.GenerateResource.Cache
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Release\tcp_client_chat_2.exe
+C:\Users\flay7\Desktop\сокет_чат\Клієнт\tcp_client_chat_2\obj\Release\tcp_client_chat_2.pdb

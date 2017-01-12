@@ -1,0 +1,5 @@
+C:\Users\flay7\Desktop\сокет_чат\Сервер\ConsoleApplication9\bin\Release\ConsoleApplication9.exe.config
+C:\Users\flay7\Desktop\сокет_чат\Сервер\ConsoleApplication9\bin\Release\ConsoleApplication9.exe
+C:\Users\flay7\Desktop\сокет_чат\Сервер\ConsoleApplication9\bin\Release\ConsoleApplication9.pdb
+C:\Users\flay7\Desktop\сокет_чат\Сервер\ConsoleApplication9\obj\Release\ConsoleApplication9.exe
+C:\Users\flay7\Desktop\сокет_чат\Сервер\ConsoleApplication9\obj\Release\ConsoleApplication9.pdb
